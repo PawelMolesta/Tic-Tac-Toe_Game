@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f90ec453-f7cd-4a27-8df0-5b02166fdac6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1VylDUu4xoXbYhcP7GlRVqfjl2H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.GameTest">
+    <configuration name="Run Game" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.udacity.Game" />
+      <module name="Project_1_-_TicTacToe.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.udacity.GameTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Project 1 - TicTacToe" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_1_-_TicTacToe.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.GameTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run Game" />
+      <item itemvalue="Gradle.Project 1 - TicTacToe" />
+      <item itemvalue="Gradle.GameTest" />
+      <item itemvalue="JUnit.GameTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest" />
+        <item itemvalue="Gradle.GameTest" />
+        <item itemvalue="Gradle.Project 1 - TicTacToe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f90ec453-f7cd-4a27-8df0-5b02166fdac6" name="Default Changelist" comment="" />
+      <created>1578233095809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578233095809</updated>
+      <workItem from="1578233098894" duration="110000" />
+      <workItem from="1578233290423" duration="283000" />
+      <workItem from="1578234151490" duration="242000" />
+      <workItem from="1578234430970" duration="474000" />
+      <workItem from="1578235031965" duration="4327000" />
+      <workItem from="1578239854795" duration="6000" />
+      <workItem from="1578240541298" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="117" width="898" height="690" key="#GameTest" timestamp="1578241296561">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="379" y="117" width="898" height="690" key="#GameTest/67.27.1533.873@67.27.1533.873" timestamp="1578241296561" />
+    <state x="67" y="124" width="800" height="677" key="#Project_Structure" timestamp="1578234796605">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="67" y="124" width="800" height="677" key="#Project_Structure/67.27.1533.873@67.27.1533.873" timestamp="1578234796605" />
+    <state x="95" y="75" width="892" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578235175143">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="95" y="75" width="892" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1578235175143" />
+    <state x="273" y="203" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578235151456">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="273" y="203" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1533.873@67.27.1533.873" timestamp="1578235151456" />
+    <state width="1487" height="272" key="GridCell.Tab.0.bottom" timestamp="1578241297025">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1578241297025" />
+    <state width="1487" height="272" key="GridCell.Tab.0.center" timestamp="1578241297023">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1578241297023" />
+    <state width="1487" height="272" key="GridCell.Tab.0.left" timestamp="1578241297023">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1578241297023" />
+    <state width="1487" height="272" key="GridCell.Tab.0.right" timestamp="1578241297025">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1578241297025" />
+    <state width="1487" height="272" key="GridCell.Tab.1.bottom" timestamp="1578241297026">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1578241297026" />
+    <state width="1487" height="272" key="GridCell.Tab.1.center" timestamp="1578241297026">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1578241297026" />
+    <state width="1487" height="272" key="GridCell.Tab.1.left" timestamp="1578241297026">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1578241297026" />
+    <state width="1487" height="272" key="GridCell.Tab.1.right" timestamp="1578241297026">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="272" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1578241297026" />
+    <state x="322" y="97" key="SettingsEditor" timestamp="1578233178132">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="322" y="97" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1578233178132" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1578239855231">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1578239855231" />
+    <state x="113" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1578238439699">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="113" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1578238439699" />
+  </component>
+</project>
